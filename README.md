@@ -1,18 +1,47 @@
 # Network-programming-system
+---
+This project demonstrates core networking concepts using Java, including client-server communication, file handling, and email systems.
 
-This project demonstrates core networking concepts using Java.
+---
+
+## Network Architecture Diagram
+
+![Network Architecture](network diagram.png)
+
+---
 
 ## Features
-- UDP & TCP client-server communication
-- Message processing and data exchange
-- File handling using Java I/O streams
-- Email system using SMTP & POP3 (JavaMail API)
+
+- UDP & TCP client-server communication  
+- Message processing and data exchange  
+- Distributed calculator system (UDP & TCP)  
+- File handling using Java I/O streams  
+- Email system using SMTP & POP3 (JavaMail API)  
+
+---
+
+## Concepts Covered
+
+- Socket Programming (TCP & UDP)  
+- Client-Server Architecture  
+- Data Transmission  
+- File Systems (InputStream / OutputStream)  
+- Email Protocols (SMTP, POP3)  
+
+---
 
 ## Technologies
-- Java
-- Socket Programming (TCP/UDP)
-- Java I/O
-- JavaMail API
+
+- Java  
+- Java Sockets (TCP/UDP)  
+- Java I/O Streams  
+- JavaMail API  
+
+---
 
 ## Description
-A modular system implementing networking, file operations, and email communication in Java.
+
+A modular Java-based system implementing networking, file operations, and email communication.  
+The project demonstrates practical understanding of communication protocols and system-level programming.
+
+---
