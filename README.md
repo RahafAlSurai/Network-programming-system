@@ -6,7 +6,8 @@ This project demonstrates core networking concepts using Java, including client-
 
 ## Network Architecture Diagram
 
-![Network Architecture](./network-diagram.png)
+![Network Architecture](./Network-programming-system
+/network-diagram.png)
 
 ---
 
